@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kripashankarpandey" alt="kripashankarpandey" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kirpa_pandey" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/kirpa_pandey?logo=twitter&style=for-the-badge" alt="https://twitter.com/kirpa_pandey" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain**
 

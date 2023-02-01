@@ -1,3 +1,4 @@
+<img src="https://media.tenor.com/JPX5iWzkrfQAAAAM/akudama-drive-anime.gif" alt="banner Image" text-align="center"/>
 <h1 align="center">Hi 👋, I'm Kripa Shankar Pandey</h1>
 <h3 align="center">I’m interested in full stack web development and blockchain</h3>
 

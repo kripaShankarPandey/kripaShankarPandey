@@ -1,5 +1,5 @@
 
-<div text-align="center" margin="auto">
+<div text-align="center" margin-left="50px">
     <img align="center" width="700px" height="400px" src="https://media.tenor.com/JPX5iWzkrfQAAAAM/akudama-drive-anime.gif" alt="banner Image" />
 </div>
 <h1 align="center">Hi 👋, I'm Kripa Shankar Pandey</h1>

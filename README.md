@@ -1,6 +1,6 @@
 
 <div text-align="center" margin="auto">
-    <img align="center" width="800px" height="600px" src="https://media.tenor.com/JPX5iWzkrfQAAAAM/akudama-drive-anime.gif" alt="banner Image" />
+    <img align="center" width="700px" height="400px" src="https://media.tenor.com/JPX5iWzkrfQAAAAM/akudama-drive-anime.gif" alt="banner Image" />
 </div>
 <h1 align="center">Hi 👋, I'm Kripa Shankar Pandey</h1>
 <h3 align="center">I’m interested in full stack web development and blockchain</h3>

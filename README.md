@@ -1,6 +1,6 @@
 
 <div text-align="center" margin-left="50px">
-    <img align="center" width="700px" height="400px" src="[https://media.tenor.com/JPX5iWzkrfQAAAAM/akudama-drive-anime.gif](https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75cfac4a7b496c85492a0996e5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39312f36622f31632f39313662316330623937383861643837623963636466633731626264616466332e676966)" alt="banner Image" />
+    <img align="center" width="700px" height="400px" src="https://images.ctfassets.net/lzny33ho1g45/office-management-software-p-img/353d3b762f17f18c1a5d1b62596ab364/file.png?w=1520&fm=jpg&q=30&fit=thumb&h=760" alt="banner Image" />
 </div>
 <h1 align="center">Hi 👋, I'm Kripa Shankar Pandey</h1>
 <h3 align="center">I’m interested in full stack web development and blockchain</h3>

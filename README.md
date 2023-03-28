@@ -12,9 +12,11 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **React,JavaScript**
+- 💬 Ask me about **React,Redux,DSA,JavaScript,HTML,CSS,Node.js,Express,Mongodb,Mongoose**
 
 - 📫 How to reach me **kripapandey302@gmail.com**
+
+- 🤖 See my Portpholio **https://kripashankarpandey.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

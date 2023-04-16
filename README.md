@@ -1,5 +1,5 @@
 
-<div text-align="center" margin-left="50px">
+<div text-align="center" margin-left="51px">
     <img align="center" width="700px" height="400px" src="https://images.ctfassets.net/lzny33ho1g45/office-management-software-p-img/353d3b762f17f18c1a5d1b62596ab364/file.png?w=1520&fm=jpg&q=30&fit=thumb&h=760" alt="banner Image" />
 </div>
 <h1 align="center">Hi 👋, I'm Kripa Shankar Pandey</h1>

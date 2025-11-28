@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kripapandey302@gmail.com**
 
-- 🤖 See my Portpholio **https://kripashankarpandey.github.io/**
+- 🤖 See my Portpholio **https://kripapandey.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
